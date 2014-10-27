@@ -1,0 +1,12 @@
+body {
+    background-color: #117abf;
+    font-family:   'Malgun Gothic';
+    font-size: 1.5em;
+   
+}
+
+header {
+        background-color: #490168;
+        color: #4cff00;
+    padding-left: 8px;
+}
