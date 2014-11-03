@@ -1,12 +1,25 @@
 body {
-    background-color: #117abf;
-    font-family:   'Malgun Gothic';
+    font-family: 'Malgun Gothic';
     font-size: 1.5em;
-   
 }
 
 header {
-        background-color: #490168;
-        color: #4cff00;
+    background-color: #038826;
+    color: #0c4194;
     padding-left: 8px;
+    
 }
+footer{
+    background-color: #4b9a04;
+    border: 2px solid #0026ff;
+    margin:5px;
+    padding: 4px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    border: 1px solid #02124e;
+    background-color: #092a98;
+    color: #058f10
+}
+
