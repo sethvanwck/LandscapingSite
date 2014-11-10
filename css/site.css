@@ -4,22 +4,35 @@ body {
 }
 
 header {
-    background-color: #038826;
+    background-color: #4b9a04;
     color: #0c4194;
     padding-left: 8px;
-    
-}
-footer{
-    background-color: #4b9a04;
     border: 2px solid #0026ff;
-    margin:5px;
-    padding: 4px;
     border-radius: 5px;
 }
-a{
+
+nav {
+    float: right;
+}
+
+nav ul li {
+    display: inline;
+    margin: 6px;
+}
+
+nav ul li a {
     text-decoration: none;
     border: 1px solid #02124e;
     background-color: #092a98;
-    color: #058f10
+    color: #058f10;
+    border-radius: 15px;
+    padding: 6px;
 }
 
+footer {
+    background-color: #4b9a04;
+    border: 2px solid #0026ff;
+    margin: 5px;
+    padding: 4px;
+    border-radius: 5px;
+}
